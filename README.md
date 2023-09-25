@@ -28,6 +28,7 @@ Unfortunately, I've faced difficulties in getting Streamlit to work as expected.
 
 I'm actively working on resolving these issues and will update this README once I have successfully addressed them.
 
-## Getting Started
+While I'm resolving the Streamlit issues, you can still explore the code and the project structure. 
 
-While I'm resolving the Streamlit issues, you can still explore the code and the project structure. Feel free to reach out if you have any questions or would like to contribute to this project.
+
+![Screenshot](C:\Users\RAMZI\Desktop\Screenshot 2023-09-25 000954.png)
